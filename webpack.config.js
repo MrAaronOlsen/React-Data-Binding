@@ -101,6 +101,6 @@ const plugins = () => {
 
 const aliases = () => {
   return {
-    event: path.resolve(__dirname, 'src/event')
+    event: path.resolve(__dirname, 'src/event'),
   }
 }

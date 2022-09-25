@@ -1,10 +1,15 @@
 ## A Simple React App build using Webpack
+
 An example project for setting up a React App with Webpack from scratch.
 
 ---
+
 #### Follow along with the tutorial [React with Webpack from Scatch](https://blog.aaron-olsen.com/react-with-webpack-from-scratch)
+
 ---
+
 Current major versions:
+
 - React ^18
 - Webpack ^5
 
