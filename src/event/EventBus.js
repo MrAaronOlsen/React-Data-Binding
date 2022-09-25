@@ -3,7 +3,7 @@ const eventBus = {
     document.addEventListener(event.getName(), callback)
   },
 
-  dispatch(event, data) {
+  send(event, data) {
     document.dispatchEvent(new CustomEvent(event.getName(), { detail: data }))
   },
 

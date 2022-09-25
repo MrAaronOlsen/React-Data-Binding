@@ -1,5 +1,5 @@
 export default class Event {
-  static THING_CHANGED = new Event('THING_CHANGED')
+  static GLOBAL_MESSAGE = new Event('GLOBAL_MESSAGE')
 
   #name
 

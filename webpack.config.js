@@ -102,5 +102,6 @@ const plugins = () => {
 const aliases = () => {
   return {
     event: path.resolve(__dirname, 'src/event'),
+    modules: path.resolve(__dirname, 'src/modules'),
   }
 }
