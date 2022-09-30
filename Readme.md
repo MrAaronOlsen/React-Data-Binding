@@ -1,10 +1,10 @@
-## A Simple React App build using Webpack
+## A Simple React App with Data Binding
 
-An example project for setting up a React App with Webpack from scratch.
+An example project for showing how data binding can be added using custom event handlers.
 
 ---
 
-#### Follow along with the tutorial [React with Webpack from Scatch](https://blog.aaron-olsen.com/react-with-webpack-from-scratch)
+#### Follow along with the tutorial [React Data Binding](https://blog.aaron-olsen.com/react-data-binding-using-a-simple-messaging-api)
 
 ---
 
@@ -15,8 +15,8 @@ Current major versions:
 
 ## System Prerequisites:
 
-- `node -v = ^18.6`<br>
-- `npm -v = ^8.13`
+- `node -v = ^18`<br>
+- `npm -v = ^8`
 
 ## Setup and Run
 
