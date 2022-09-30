@@ -3,6 +3,10 @@ export default class Event {
 
   #name
 
+  getName() {
+    return this.#name
+  }
+
   constructor(name) {
     this.#name = name
   }
